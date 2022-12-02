@@ -1380,8 +1380,22 @@
         "featured": false
     }
 ],
-"userAccount":[
-    {"name":"krishna"},
-    {"name":"xyz"}
+"accounts": [
+    {
+      "id": "0",
+      "name": "Admin",
+      "email": "Admin@gmail.com",
+      "password": "123456789",
+      "mobile": "123456789",
+
+      "address": [],
+
+      "cart": [],
+
+      "wishlist": [],
+
+      "orders": [],
+      "login": false
+    }
 ]
 }
