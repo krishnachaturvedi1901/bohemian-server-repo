@@ -1,4 +1,5 @@
-{"products":[
+{
+    "products":[
     {
         "id": 0,
         "brand": "BOHEMIAN TRADERS",
@@ -1380,7 +1381,7 @@
         "featured": false
     }
 ],
-"accounts": [
+    "accounts": [
     {
       "id": "0",
       "name": "Admin",
